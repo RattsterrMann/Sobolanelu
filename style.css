@@ -1,0 +1,93 @@
+/*Fjalla One*/
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200..1000&family=Fjalla+One&display=swap');
+/*Frijole*/
+@import url('https://fonts.googleapis.com/css2?family=Frijole&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&family=Frijole&family=Love+Ya+Like+A+Sister&display=swap');
+
+#titlu {
+    color: rgba(243, 224, 195, 0.945);
+    font-size: 80px;
+    font-weight: 100;
+    font-family: "Frijole", sans-serif; text-align: center;
+    margin: 5%;
+}
+
+
+body { background-image: url("./imagini/b2.png"); background-size: 8%; background-repeat: repeat; } 
+
+
+#titlu2 {
+    color: rgba(255, 253, 252, 0.945);
+    font-size: 70px;
+    font-weight: 1;
+    font-family: "Love Ya Like A Sister", sans-serif; text-align: center;
+}
+
+
+.fb {
+    color: rgb(243, 224, 195, 0.945);
+    font-size: 20px;
+    font-weight: 100;
+    size: 30%;
+    font-family: "Fjalla One", sans-serif; text-align: center;
+    margin: 5%; 
+    border: antiquewhite; border-style: solid; min-height: 20%; margin: 5% ; overflow: auto; padding: 20px; 
+     background-color: rgba(253, 247, 239, 0.1);  }
+
+ .diva {  border: antiquewhite; border-style: solid; 
+     min-height: 20%; margin: 1% ; float:left; max-width: 21%;
+ text-align:center; padding-left: 1%;} 
+ .diva:hover{border: antiquewhite;border-style: solid; background-color: rgba(255, 244, 229, 0.175); }
+.diva img{ max-width: 80%; padding: 2%;}
+
+
+.exm{  margin: 2%;
+     min-height: 20%; margin: 2% ; padding: 10px;
+     /* background-color: rgba(253, 247, 239, 0.1); */overflow: auto;} 
+ .exm img {max-width: 30% ; float:left; margin: 1.5%; filter: grayscale(90%); } .exm img:hover{scale: 110%; filter:none; transition: all 0.3s;} 
+
+#dgt{   border: antiquewhite; border-style: solid; min-height: 20%; margin: 2% ; float: left; max-width: 95%;
+    color: rgb(243, 224, 195, 0.945);
+    font-size: 21.2px;
+    font-weight: 100;
+    font-family: "Fjalla One", sans-serif; 
+    margin: 5%; 
+    border: antiquewhite; border-style: solid; min-height: 20%; margin: 5% ; overflow :auto; padding: 30px;
+     background-color: rgba(253, 247, 239, 0.1); text-align: justify;} 
+     img {margin: 1%; border-radius: 5%;} iframe{margin: 3%;}
+
+#scp{   border: antiquewhite; border-style: solid; min-height: 20%; margin: 2% ; float: right; max-width: 95%;
+    color: rgb(243, 224, 195, 0.945);
+    font-size: 20px;
+    font-weight: 100;
+    font-family: "Fjalla One", sans-serif; text-align:justify;
+    margin: 5%;
+    border: antiquewhite; border-style: solid; min-height: 20%; margin: 5% ; overflow :auto; padding: 20px;
+     background-color: rgba(253, 247, 239, 0.1); }
+
+#anim{   border: antiquewhite; border-style: solid; min-height: 20%; margin: 2% ; float: left; max-width: 95%;
+    color: rgb(243, 224, 195, 0.945);
+    font-size: 20px;
+    font-weight: 100;
+    font-family: "Fjalla One", sans-serif; text-align: justify;
+    margin: 5%;
+    border: antiquewhite; border-style: solid; min-height: 20%; margin: 5% ; overflow :auto; padding: 20px;
+     background-color: rgba(253, 247, 239, 0.1);}
+
+#pht{   border: antiquewhite; border-style: solid; min-height: 20%; margin: 2% ; float: right; max-width: 95%;
+    color: rgb(243, 224, 195, 0.945);
+    font-size: 20px;
+    font-weight: 100;
+    font-family: "Fjalla One", sans-serif; text-align:justify;
+    margin: 5%;
+    border: #faebd7; border-style: solid; min-height: 20%; margin: 5% ; overflow :auto; padding: 20px;
+     background-color: rgba(253, 247, 239, 0.1);} 
+     
+     img:hover{scale: 103%; filter:none; transition: all 0.3s;} 
+    
+
+
+.a {text-decoration: none; font-size: 30px; text-align: right; }
+ a:link { color:rgb(255, 248, 239) ;text-decoration: none;}  a:visited{color:rgb(255, 247, 237); text-decoration: none;} a:hover{color: burlywood; text-decoration: wavy; }
+ 
+ .pag{font-family: "Fjalla One", sans-serif; text-align:center;}
